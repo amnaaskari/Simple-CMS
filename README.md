@@ -6,7 +6,7 @@ Our CMS will store articles with the following properties:
 
 Mandatory: 
 - Article Title (text)
-- Article Body, with a word limit of 500 characters (text)
+- Article Body, **with a word limit of 500 characters** (text)
 - Article Authour (text) 
 
 Optional: 
