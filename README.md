@@ -20,6 +20,6 @@ Example image URLs:
 ## Instructions 
 
 1. Write a script that allows writers to input the mandatory properties for an article, and store this input in a data structure 
-  - Bonus: How would you amend your script to allow viewing or editing of the content?
+  - _Bonus_: How would you amend your script to allow viewing or editing of the content?
 2. Add to your script functionality for adding the optional property of a lead image via supplying an image URL 
-  - Bonus: How would you store this image alongside the other content?
+  - _Bonus_: How would you store this image alongside the other content?
