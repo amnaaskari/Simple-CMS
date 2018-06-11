@@ -13,9 +13,9 @@ Optional:
 - Lead Image for Article (URL in the correct format - standard URL format is: protocol://domainOrIPAddress:port/path/filename)
 
 Example image URLs: 
-http://quotesnhumor.com/wp-content/uploads/2015/07/Top-30-Funny-Cat-Memes-Hilarious.jpg
-http://static.tvtropes.org/pmwiki/pub/images/dexterdidi_9061.png
-https://i.imgflip.com/1hr4mp.jpg
+- http://quotesnhumor.com/wp-content/uploads/2015/07/Top-30-Funny-Cat-Memes-Hilarious.jpg
+- http://static.tvtropes.org/pmwiki/pub/images/dexterdidi_9061.png
+- https://i.imgflip.com/1hr4mp.jpg
 
 ## Instructions 
 
