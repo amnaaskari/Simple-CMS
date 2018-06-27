@@ -10,9 +10,9 @@ Mandatory:
 - Article Authour (text) 
 
 Example Article information: 
-Article Title: "Missing cat in Brooklyn found in a skateboard shop" 
-Article Body: "Missing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shop"
-Article Authour: "Clark Kent"
+- Article Title: "Missing cat in Brooklyn found in a skateboard shop" 
+- Article Body: "Missing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shop"
+- Article Authour: "Clark Kent"
 
 Optional: 
 - Lead Image for Article (URL in the correct format - standard URL format is: protocol://domainOrIPAddress:port/path/filename)
