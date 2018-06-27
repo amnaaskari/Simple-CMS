@@ -6,8 +6,13 @@ Our CMS will store articles with the following properties:
 
 Mandatory: 
 - Article Title (text)
-- Article Body, **with a word limit of 500 characters** (text)
+- Article Body, **with a limit of 500 characters** (text)
 - Article Authour (text) 
+
+Example Article information: 
+Article Title: "Missing cat in Brooklyn found in a skateboard shop" 
+Article Body: "Missing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shopMissing cat in Brooklyn found in a skateboard shop"
+Article Authour: "Clark Kent"
 
 Optional: 
 - Lead Image for Article (URL in the correct format - standard URL format is: protocol://domainOrIPAddress:port/path/filename)
